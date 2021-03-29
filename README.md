@@ -1,4 +1,4 @@
-# slaves-bot-vk
+# botslaves
 
 [Бот для мини-игры ВКонтакте "Рабы"](https://vk.com/app7794757) 
 
