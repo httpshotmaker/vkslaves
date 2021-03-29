@@ -1,0 +1,14 @@
+{
+    "authorization": "Bearer vk_access_token_settings=friends,status&vk_app_id=7794757&vk_are_notifications_enabled=1&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=catalog_recent&vk_ts=1616944701&vk_user_id=431726311&sign=A7-VS-Ahh4TL_9waimOc0H3MSZlGEU5okB_5Ev_pNfg",
+    "windows_title": true,
+
+    "min_delay": 5,
+    "max_delay": 6,
+     
+    "min_price": 10,
+    "max_price": 1000000,
+
+    "job_name": ["."],
+    "buy_slave": true,
+    "buy_fetter": true
+}
